@@ -6,12 +6,11 @@ We Continue our Open-Source AI workshop from last week with a focus on Vector Da
 
 ​We will focus of course on open-sourced models and also see if it’s not too hard to get an open-sourced generative AI model on a raspberry pi for hardware hacking projects.
 
-
-## about this meetup
-The purpose of this [Octavia Butler Open-Source AI meetup](https://sudoroom.org/inspiration-from-goat-octavia-butler/) is to get our hands dirty with code and face-to-face interaction at the SudoRoom hackerspace in Oakland. AI is coming our way for all its good or bad qualities, but we should be proactive and try to figure out way to deal with it humanely.
+![image](session_01/images/Butler-Perret_BACK-ofbook-1.jpg)
 
 
-* From the first session [https://sudoroom.org/inspiration-from-goat-octavia-butler/](https://sudoroom.org/inspiration-from-goat-octavia-butler/)
+
+
 
 ## Basics
 We're using open-source models with the Ollama open-source framework
@@ -34,5 +33,9 @@ python -m venv .venv
 source .venv/bin/activate  # On Windows, use .venv\Scripts\activate
 ```
 
-![image](session_01/images/Butler-Perret_BACK-ofbook-1.jpg)
+## about this meetup
 
+The purpose of this [Octavia Butler Open-Source AI meetup](https://sudoroom.org/inspiration-from-goat-octavia-butler/) is to get our hands dirty with code and face-to-face interaction at the SudoRoom hackerspace in Oakland. AI is coming our way for all its good or bad qualities, but we should be proactive and try to figure out way to deal with it humanely.
+
+
+* From the first session [https://sudoroom.org/inspiration-from-goat-octavia-butler/](https://sudoroom.org/inspiration-from-goat-octavia-butler/)
