@@ -34,5 +34,5 @@ python -m venv .venv
 source .venv/bin/activate  # On Windows, use .venv\Scripts\activate
 ```
 
-![image](https://github.com/user-attachments/assets/f6d9169c-537d-45a6-8972-d39f2ebcf725)
+![image](session_01/images/Butler-Perret_BACK-ofbook-1.jpg)
 
