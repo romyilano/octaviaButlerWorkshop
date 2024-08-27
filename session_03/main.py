@@ -1,6 +1,6 @@
 from typing import Callable, List
 import tenacity
-from langchain.chat_models import ChatOpenAI
+
 from langchain.output_parsers import RegexParser
 from langchain.prompts import PromptTemplate
 from langchain.schema import (
@@ -19,14 +19,6 @@ from dotenv import load_dotenv
 import ollama
 from langchain_ollama.llms import OllamaLLM
 
-
-load_dotenv()
-
-os.environ["OPENAI_API_KEY"] = os.getenv('OPENAI_API_KEY')
-
-## todo: change the model
-
-#model=ChatOpenAI(temperature=0.4)
 model = OllamaLLM(model="llama3.1:latest")
 
 # Define your characters, topic, and word limit here
@@ -35,7 +27,7 @@ character_names = [
     "Kara Walker - Artist",
     "Aaron Swartz - persecuted entrepreneur and innovator",
     "Zora Neale Hurston - Writer",
-    "Art Critic - Jason",
+    "Jayson - Food not Bombs organizer",
     "Hackerspace members speaking as one - SudoRoom HiveMind"
 ]
 topic = "How do we create hackerspace projects in Oakland at SudoRoom that show the true uniqueness of Oakland in a creative way with leftwing ideals and art so that they are not just the standard hackerspace tech products?"
