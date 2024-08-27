@@ -7,3 +7,5 @@ langchain_experimental
 faiss-cpu
 tenacity
 langchain-ollama
+FastAPI
+pydantic
