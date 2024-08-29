@@ -1,3 +1,9 @@
+# Session4: Peacekeeping 8 [https://lu.ma/v019wd62](https://lu.ma/v019wd62)
+
+​In the thick of COVID the United Nations used an AI web service to fairly deal with both sides of a war in its peacekeeping efforts, saving thousands of dollars / EUROs and hopefully providing a fair process with less human bias. The UN was able to bring in the opinions of people (women and the poor) normally left out of peacekeeping processes.
+
+Our workshop will do some simple debate work and also incorporate agents as well to include up to date information!
+
 # Session3: Octavia Butler Predicts the future
 
 [https://lu.ma/cin107ny](https://lu.ma/cin107ny)
